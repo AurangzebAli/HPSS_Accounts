@@ -1,0 +1,7 @@
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\DataAcessLayer\bin\Debug\BuisnessAccessLayer.dll
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\DataAcessLayer\bin\Debug\BuisnessAccessLayer.pdb
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\DataAcessLayer\obj\Debug\DataAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

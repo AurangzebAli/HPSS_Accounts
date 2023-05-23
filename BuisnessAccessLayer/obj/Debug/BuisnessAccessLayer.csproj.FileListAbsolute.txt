@@ -1,0 +1,5 @@
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\bin\Debug\BuisnessAccessLayer.dll
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\bin\Debug\BuisnessAccessLayer.pdb
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\obj\Debug\BuisnessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\obj\Debug\BuisnessAccessLayer.dll
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\obj\Debug\BuisnessAccessLayer.pdb

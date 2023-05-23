@@ -1,0 +1,4 @@
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\bin\Release\BuisnessAccessLayer.dll
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\bin\Release\BuisnessAccessLayer.pdb
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\obj\Release\BuisnessAccessLayer.dll
+C:\Users\Alii\Documents\Visual Studio 2013\Projects\HPSS_Accounts\BuisnessAccessLayer\obj\Release\BuisnessAccessLayer.pdb
